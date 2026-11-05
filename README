@@ -1,0 +1,45 @@
+
+# LeetCode Solutions
+
+A collection of my solutions to LeetCode problems, documenting my progress in algorithms, data structures, and problem-solving.
+
+The goal of this repository is to strengthen my programming fundamentals, explore different approaches to coding challenges, and prepare for technical interviews.
+
+## Technologies
+
+- C
+- Python (planned)
+
+## Solutions
+
+| # | Problem | Language | Difficulty | Time | Space |
+|---|---------|----------|------------|------|-------|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | C | Easy | O(n²) | O(1) |
+
+## Repository Structure
+
+```text
+leetcode-solutions/
+├── C/
+│   └── 0001-two-sum.c
+├── Python/
+├── .gitignore
+└── README.md
+```
+
+## Approach
+
+Each solution focuses on:
+
+- Understanding the problem and its constraints
+- Writing clear and readable code
+- Analyzing time and space complexity
+- Improving solutions through practice
+
+Solutions are written independently as part of my continuous learning process.
+
+## About Me
+
+I'm Rafael, a Software Development student focused on building strong programming fundamentals and expanding my knowledge of software engineering.
+
+**GitHub:** [rafcrist](https://github.com/rafcrist)
