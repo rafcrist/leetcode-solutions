@@ -1,4 +1,3 @@
-
 # LeetCode Solutions
 
 A collection of my solutions to LeetCode problems, documenting my progress in algorithms, data structures, and problem-solving.
@@ -15,14 +14,21 @@ The goal of this repository is to strengthen my programming fundamentals, explor
 | # | Problem | Language | Difficulty | Time | Space |
 |---|---------|----------|------------|------|-------|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | C | Easy | O(n²) | O(1) |
+| 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | C | Medium | O(log n) | O(1) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | C | Medium | O(n) | O(1) |
+| 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | C | Easy | O(log n) | O(1) |
+| 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | C | Easy | O(n) | O(1) |
 
 ## Repository Structure
 
 ```text
 leetcode-solutions/
 ├── C/
-│   └── 0001-two-sum.c
-├── Python/
+│   ├── 0001-two_sum.c
+│   ├── 0007-reverse_int.c
+│   ├── 0008-atoi.c
+│   ├── 0009-palindrome.c
+│   └── 0013-roman_int.c
 ├── .gitignore
 └── README.md
 ```
